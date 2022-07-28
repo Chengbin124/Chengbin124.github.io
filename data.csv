@@ -1,0 +1,1086 @@
+country,Years,continent,lifeExp,pop,gdpPercap
+Afghanistan,2000,South Asia,55.841,20779957,
+Afghanistan,2005,South Asia,58.29,25654274,345.9258138
+Afghanistan,2010,South Asia,61.028,29185511,526.1036756
+Afghanistan,2015,South Asia,63.377,34413603,556.0072209
+Afghanistan,2020,South Asia,65.173,38928341,529.7412103
+Albania,2000,Europe & Central Asia,73.955,3089027,1960.881946
+Albania,2005,Europe & Central Asia,75.228,3011487,2675.507936
+Albania,2010,Europe & Central Asia,76.562,2913021,3577.113388
+Albania,2015,Europe & Central Asia,78.025,2880703,3952.802538
+Albania,2020,Europe & Central Asia,78.686,2837849,4389.89621
+Algeria,2000,Middle East & North Africa,70.64,31042238,3111.176169
+Algeria,2005,Middle East & North Africa,73.072,33149720,3752.096161
+Algeria,2010,Middle East & North Africa,74.938,35977451,3918.48642
+Algeria,2015,Middle East & North Africa,76.09,39728020,4177.889542
+Algeria,2020,Middle East & North Africa,77.063,43851043,3834.438983
+American Samoa,2000,East Asia & Pacific,,57816,
+American Samoa,2005,East Asia & Pacific,,59557,12628.50766
+American Samoa,2010,East Asia & Pacific,,56084,12256.34286
+American Samoa,2015,East Asia & Pacific,,55806,12059.63516
+American Samoa,2020,East Asia & Pacific,,55197,11839.0105
+Andorra,2000,Europe & Central Asia,,65390,34267.58224
+Andorra,2005,Europe & Central Asia,,78871,39782.92876
+Andorra,2010,Europe & Central Asia,,84454,34667.17131
+Andorra,2015,Europe & Central Asia,,77993,35770.7767
+Andorra,2020,Europe & Central Asia,,77265,34288.53846
+Angola,2000,Sub-Saharan Africa,46.522,16395477,2451.509826
+Angola,2005,Sub-Saharan Africa,50.165,19433604,3220.078085
+Angola,2010,Sub-Saharan Africa,55.35,23356247,3988.623646
+Angola,2015,Sub-Saharan Africa,59.398,27884380,4166.979833
+Angola,2020,Sub-Saharan Africa,61.487,32866268,3168.253873
+Antigua and Barbuda,2000,Latin America & Caribbean,73.94,76007,14069.51484
+Antigua and Barbuda,2005,Latin America & Caribbean,75.019,81462,15122.18561
+Antigua and Barbuda,2010,Latin America & Caribbean,75.823,88030,13986.84089
+Antigua and Barbuda,2015,Latin America & Caribbean,76.483,93571,14285.32978
+Antigua and Barbuda,2020,Latin America & Caribbean,77.146,97928,13285.64474
+Argentina,2000,Latin America & Caribbean,73.576,36870796,10730.60822
+Argentina,2005,Latin America & Caribbean,74.451,38892924,11192.17958
+Argentina,2010,Latin America & Caribbean,75.278,40788453,13551.33919
+Argentina,2015,Latin America & Caribbean,76.068,43131966,13789.06042
+Argentina,2020,Latin America & Caribbean,76.813,45376763,11344.40574
+Armenia,2000,Europe & Central Asia,71.409,3069597,1289.884252
+Armenia,2005,Europe & Central Asia,72.626,2981262,2364.175935
+Armenia,2010,Europe & Central Asia,73.331,2877314,2958.838999
+Armenia,2015,Europe & Central Asia,74.467,2925559,3607.289299
+Armenia,2020,Europe & Central Asia,75.224,2963234,4021.046264
+Aruba,2000,Latin America & Caribbean,73.787,90866,31245.72404
+Aruba,2005,Latin America & Caribbean,74.287,100028,29670.28769
+Aruba,2010,Latin America & Caribbean,75.017,101665,25857.49338
+Aruba,2015,Latin America & Caribbean,75.725,104339,28396.90842
+Aruba,2020,Latin America & Caribbean,76.434,106766,
+Australia,2000,East Asia & Pacific,79.23414634,19153000,45558.75313
+Australia,2005,East Asia & Pacific,80.84146342,20394800,50332.87484
+Australia,2010,East Asia & Pacific,81.69512195,22031750,53542.83372
+Australia,2015,East Asia & Pacific,82.4,23815995,56707.02208
+Australia,2020,East Asia & Pacific,83.2,25693267,58029.51553
+Austria,2000,Europe & Central Asia,78.12682927,8011566,38842.89052
+Austria,2005,Europe & Central Asia,79.33170732,8227829,41281.27076
+Austria,2010,Europe & Central Asia,80.58048781,8363404,43334.50896
+Austria,2015,Europe & Central Asia,81.1902439,8642699,44195.81759
+Austria,2020,Europe & Central Asia,81.19268293,8916864,43346.43185
+Azerbaijan,2000,Europe & Central Asia,66.763,8048600,1480.756655
+Azerbaijan,2005,Europe & Central Asia,68.747,8391850,2631.758979
+Azerbaijan,2010,Europe & Central Asia,70.938,9054332,5215.020912
+Azerbaijan,2015,Europe & Central Asia,72.266,9649341,5500.310382
+Azerbaijan,2020,Europe & Central Asia,73.123,10093121,5083.381639
+"Bahamas, The",2000,Latin America & Caribbean,71.914,298045,35782.80435
+"Bahamas, The",2005,Latin America & Caribbean,71.987,324848,35637.79066
+"Bahamas, The",2010,Latin America & Caribbean,72.144,354936,32238.12302
+"Bahamas, The",2015,Latin America & Caribbean,73.088,374200,31776.05559
+"Bahamas, The",2020,Latin America & Caribbean,74.053,393248,27209.46486
+Bahrain,2000,Middle East & North Africa,74.44,664610,23243.59088
+Bahrain,2005,Middle East & North Africa,75.326,889157,22343.53739
+Bahrain,2010,Middle East & North Africa,76.057,1240864,20982.34048
+Bahrain,2015,Middle East & North Africa,76.762,1371853,22634.08565
+Bahrain,2020,Middle East & North Africa,77.419,1701583,19514.87488
+Bangladesh,2000,South Asia,65.447,127657862,653.80864
+Bangladesh,2005,South Asia,67.773,139035505,769.1359804
+Bangladesh,2010,South Asia,69.881,147575433,972.9096877
+Bangladesh,2015,South Asia,71.514,156256287,1248.45331
+Bangladesh,2020,South Asia,72.868,164689383,1643.67331
+Barbados,2000,Latin America & Caribbean,77.162,271511,16247.3897
+Barbados,2005,Latin America & Caribbean,77.915,276320,16921.93545
+Barbados,2010,Latin America & Caribbean,78.364,282131,16754.62856
+Barbados,2015,Latin America & Caribbean,78.801,285327,16524.8995
+Barbados,2020,Latin America & Caribbean,79.308,287371,13595.03441
+Belarus,2000,Europe & Central Asia,68.91219512,9979610,2616.912993
+Belarus,2005,Europe & Central Asia,68.85121951,9663915,3880.01437
+Belarus,2010,Europe & Central Asia,70.40487805,9483836,5621.937175
+Belarus,2015,Europe & Central Asia,73.62439024,9461076,5967.052204
+Belarus,2020,Europe & Central Asia,74.22682927,9379952,6234.824328
+Belgium,2000,Europe & Central Asia,77.72195122,10251250,35674.79125
+Belgium,2005,Europe & Central Asia,78.98048781,10478617,38426.05191
+Belgium,2010,Europe & Central Asia,80.18292683,10895586,39777.92528
+Belgium,2015,Europe & Central Asia,80.99268293,11274196,41008.29672
+Belgium,2020,Europe & Central Asia,80.79512195,11544241,40438.92073
+Belize,2000,Latin America & Caribbean,68.847,247310,4278.016875
+Belize,2005,Latin America & Caribbean,69.998,283798,4773.623885
+Belize,2010,Latin America & Caribbean,72.057,322465,4728.773622
+Belize,2015,Latin America & Caribbean,74.034,360926,4770.232656
+Belize,2020,Latin America & Caribbean,74.754,397621,3968.491883
+Benin,2000,Sub-Saharan Africa,55.391,6865946,905.8262695
+Benin,2005,Sub-Saharan Africa,57.355,7982223,943.6293117
+Benin,2010,Sub-Saharan Africa,59.318,9199254,988.6107855
+Benin,2015,Sub-Saharan Africa,60.608,10575962,1076.796698
+Benin,2020,Sub-Saharan Africa,62.077,12123198,1214.659587
+Bermuda,2000,North America,77.88536585,61833,109001.586
+Bermuda,2005,North America,78.68536585,64154,119396.4494
+Bermuda,2010,North America,79.28853659,65124,115839.796
+Bermuda,2015,North America,81.01219512,65237,102005.6256
+Bermuda,2020,North America,82.05609756,63903,100411.8739
+Bhutan,2000,South Asia,60.884,591014,1108.439825
+Bhutan,2005,South Asia,65.289,648744,1489.211777
+Bhutan,2010,South Asia,68.384,685502,2235.322677
+Bhutan,2015,South Asia,70.419,727885,2752.630172
+Bhutan,2020,South Asia,72.08,771612,2879.638619
+Bolivia,2000,Latin America & Caribbean,62.452,8418270,2059.185276
+Bolivia,2005,Latin America & Caribbean,65.312,9232301,2186.186676
+Bolivia,2010,Latin America & Caribbean,68.007,10048597,2514.434823
+Bolivia,2015,Latin America & Caribbean,70.277,10869732,3035.971655
+Bolivia,2020,Latin America & Caribbean,71.771,11673029,2983.027049
+Bosnia and Herzegovina,2000,Europe & Central Asia,74.403,3751176,2847.59239
+Bosnia and Herzegovina,2005,Europe & Central Asia,75.198,3765332,3501.563492
+Bosnia and Herzegovina,2010,Europe & Central Asia,76.031,3705478,4095.960731
+Bosnia and Herzegovina,2015,Europe & Central Asia,76.865,3429362,4729.689959
+Bosnia and Herzegovina,2020,Europe & Central Asia,77.545,3280815,5433.151358
+Botswana,2000,Sub-Saharan Africa,50.629,1643333,4569.215196
+Botswana,2005,Sub-Saharan Africa,52.13,1799077,4986.327986
+Botswana,2010,Sub-Saharan Africa,60.211,1987106,5642.220049
+Botswana,2015,Sub-Saharan Africa,67.338,2120716,6402.910183
+Botswana,2020,Sub-Saharan Africa,69.793,2351625,6299.208725
+Brazil,2000,Latin America & Caribbean,70.116,174790339,6787.668992
+Brazil,2005,Latin America & Caribbean,71.896,186127108,7352.282586
+Brazil,2010,Latin America & Caribbean,73.619,195713637,8702.255331
+Brazil,2015,Latin America & Caribbean,74.994,204471759,8813.989806
+Brazil,2020,Latin America & Caribbean,76.084,212559409,8228.78051
+British Virgin Islands,2000,Latin America & Caribbean,,20313,
+British Virgin Islands,2005,Latin America & Caribbean,,23106,
+British Virgin Islands,2010,Latin America & Caribbean,,27796,
+British Virgin Islands,2015,Latin America & Caribbean,,29148,
+British Virgin Islands,2020,Latin America & Caribbean,,30237,
+Brunei Darussalam,2000,East Asia & Pacific,72.809,333166,34063.61458
+Brunei Darussalam,2005,East Asia & Pacific,74.006,365112,34441.12261
+Brunei Darussalam,2010,East Asia & Pacific,74.74,388634,33437.12173
+Brunei Darussalam,2015,East Asia & Pacific,75.318,414914,31164.03625
+Brunei Darussalam,2020,East Asia & Pacific,75.998,437483,30696.87715
+Bulgaria,2000,Europe & Central Asia,71.66341463,8170172,3717.677042
+Bulgaria,2005,Europe & Central Asia,72.56097561,7658972,5230.983704
+Bulgaria,2010,Europe & Central Asia,73.51219512,7395599,6427.810062
+Bulgaria,2015,Europe & Central Asia,74.61463415,7177991,7074.681023
+Bulgaria,2020,Europe & Central Asia,73.60731707,6934015,7920.91133
+Burkina Faso,2000,Sub-Saharan Africa,50.489,11607951,440.028405
+Burkina Faso,2005,Sub-Saharan Africa,53.31,13421935,518.1678672
+Burkina Faso,2010,Sub-Saharan Africa,57.096,15605211,582.4157341
+Burkina Faso,2015,Sub-Saharan Africa,59.919,18110616,653.3272681
+Burkina Faso,2020,Sub-Saharan Africa,61.981,20903278,731.5220707
+Burundi,2000,Sub-Saharan Africa,49.091,6378871,306.5844854
+Burundi,2005,Sub-Saharan Africa,53.369,7364857,295.7371646
+Burundi,2010,Sub-Saharan Africa,57.228,8675606,313.3118179
+Burundi,2015,Sub-Saharan Africa,60.123,10160034,305.5496525
+Burundi,2020,Sub-Saharan Africa,61.916,11890781,270.6914487
+Cabo Verde,2000,Sub-Saharan Africa,68.583,428178,1974.088849
+Cabo Verde,2005,Sub-Saharan Africa,70.424,463034,2410.773812
+Cabo Verde,2010,Sub-Saharan Africa,71.062,492644,3010.722178
+Cabo Verde,2015,Sub-Saharan Africa,72.117,524740,3043.031382
+Cabo Verde,2020,Sub-Saharan Africa,73.166,555988,2935.321046
+Cambodia,2000,East Asia & Pacific,58.432,12155241,486.5413328
+Cambodia,2005,East Asia & Pacific,63.088,13273355,696.3394218
+Cambodia,2010,East Asia & Pacific,66.56,14312205,892.1004421
+Cambodia,2015,East Asia & Pacific,68.637,15521435,1162.904995
+Cambodia,2020,East Asia & Pacific,70.054,16718971,1376.412027
+Cameroon,2000,Sub-Saharan Africa,50.993,15513944,1106.653951
+Cameroon,2005,Sub-Saharan Africa,52.76,17733408,1217.756953
+Cameroon,2010,Sub-Saharan Africa,55.101,20341236,1248.180462
+Cameroon,2015,Sub-Saharan Africa,57.583,23298376,1382.50979
+Cameroon,2020,Sub-Saharan Africa,59.626,26545864,1419.676711
+Canada,2000,North America,79.13658537,30685730,34121.60919
+Canada,2005,North America,80.19268293,32243753,38573.19977
+Canada,2010,North America,81.24634146,34004889,41155.32364
+Canada,2015,North America,81.9,35702908,43596.13554
+Canada,2020,North America,81.74878049,38037204,42258.69102
+Cayman Islands,2000,Latin America & Caribbean,,42305,
+Cayman Islands,2005,Latin America & Caribbean,,49261,
+Cayman Islands,2010,Latin America & Caribbean,82.1902439,56672,75877.16834
+Cayman Islands,2015,Latin America & Caribbean,,61721,76284.19393
+Cayman Islands,2020,Latin America & Caribbean,,65720,76998.81945
+Central African Republic,2000,Sub-Saharan Africa,44.19,3640421,460.3452071
+Central African Republic,2005,Sub-Saharan Africa,44.744,4038380,454.5074057
+Central African Republic,2010,Sub-Saharan Africa,47.312,4386765,531.7129958
+Central African Republic,2015,Sub-Saharan Africa,50.881,4493171,377.4229177
+Central African Republic,2020,Sub-Saharan Africa,53.679,4829764,414.3966191
+Chad,2000,Sub-Saharan Africa,47.713,8355654,374.9696177
+Chad,2005,Sub-Saharan Africa,48.549,10096630,676.1621123
+Chad,2010,Sub-Saharan Africa,50.89,11952134,724.0305855
+Chad,2015,Sub-Saharan Africa,53.137,14110971,776.0197523
+Chad,2020,Sub-Saharan Africa,54.505,16425859,634.7517905
+Channel Islands,2000,Europe & Central Asia,79.037,148439,
+Channel Islands,2005,Europe & Central Asia,80.298,151674,
+Channel Islands,2010,Europe & Central Asia,81.483,159718,
+Channel Islands,2015,Europe & Central Asia,82.429,165387,
+Channel Islands,2020,Europe & Central Asia,83.24,173859,
+Chile,2000,Latin America & Caribbean,76.366,15342350,8685.321794
+Chile,2005,Latin America & Caribbean,77.63,16182713,10349.64301
+Chile,2010,Latin America & Caribbean,78.779,17062531,11809.14163
+Chile,2015,Latin America & Caribbean,79.646,17969356,13574.16924
+Chile,2020,Latin America & Caribbean,80.329,19116209,12954.40535
+China,2000,East Asia & Pacific,71.397,1262645000,2193.892991
+China,2005,East Asia & Pacific,72.985,1303720000,3390.71017
+China,2010,East Asia & Pacific,74.409,1337705000,5647.058752
+China,2015,East Asia & Pacific,75.928,1379860000,8016.431435
+China,2020,East Asia & Pacific,77.097,1410929362,10370.35929
+Colombia,2000,Latin America & Caribbean,72.945,39629965,3961.929723
+Colombia,2005,Latin America & Caribbean,74.265,42647731,4402.899082
+Colombia,2010,Latin America & Caribbean,75.424,45222699,5162.705636
+Colombia,2015,Latin America & Caribbean,76.531,47520667,6175.87603
+Colombia,2020,Latin America & Caribbean,77.46,50882884,5892.481636
+Comoros,2000,Sub-Saharan Africa,59.46,542358,1189.721804
+Comoros,2005,Sub-Saharan Africa,60.126,611625,1182.210908
+Comoros,2010,Sub-Saharan Africa,61.862,689696,1208.480763
+Comoros,2015,Sub-Saharan Africa,63.471,777435,1242.585608
+Comoros,2020,Sub-Saharan Africa,64.525,869595,1255.043948
+"Congo, Dem. Rep.",2000,Sub-Saharan Africa,50.041,47105830,350.8708332
+"Congo, Dem. Rep.",2005,Sub-Saharan Africa,53.675,54785894,363.6675479
+"Congo, Dem. Rep.",2010,Sub-Saharan Africa,56.909,64563853,404.1516141
+"Congo, Dem. Rep.",2015,Sub-Saharan Africa,59.254,76244532,497.3170391
+"Congo, Dem. Rep.",2020,Sub-Saharan Africa,60.971,89561404,505.348339
+"Congo, Rep.",2000,Sub-Saharan Africa,52.123,3127420,2061.287272
+"Congo, Rep.",2005,Sub-Saharan Africa,55.6,3622775,2171.443137
+"Congo, Rep.",2010,Sub-Saharan Africa,60.093,4273738,2421.709029
+"Congo, Rep.",2015,Sub-Saharan Africa,63.097,4856093,2447.539308
+"Congo, Rep.",2020,Sub-Saharan Africa,64.804,5518092,1608.779266
+Costa Rica,2000,Latin America & Caribbean,77.452,3962369,7678.491551
+Costa Rica,2005,Latin America & Caribbean,78.117,4285504,8606.333699
+Costa Rica,2010,Latin America & Caribbean,78.769,4577371,10236.98032
+Costa Rica,2015,Latin America & Caribbean,79.565,4847805,11642.77805
+Costa Rica,2020,Latin America & Caribbean,80.465,5094114,12105.92843
+Cote d'Ivoire,2000,Sub-Saharan Africa,49.635,16454660,1847.86997
+Cote d'Ivoire,2005,Sub-Saharan Africa,50.12,18354513,1565.428488
+Cote d'Ivoire,2010,Sub-Saharan Africa,52.964,20532944,1687.216519
+Cote d'Ivoire,2015,Sub-Saharan Africa,56.065,23226148,1972.545683
+Cote d'Ivoire,2020,Sub-Saharan Africa,58.104,26378275,2313.793388
+Croatia,2000,Europe & Central Asia,72.80780488,4468302,8805.500395
+Croatia,2005,Europe & Central Asia,75.24463415,4310145,11399.77534
+Croatia,2010,Europe & Central Asia,76.47560976,4295427,11748.94483
+Croatia,2015,Europe & Central Asia,77.27560976,4203604,11933.37738
+Croatia,2020,Europe & Central Asia,77.72439024,4047680,12984.69587
+Cuba,2000,Latin America & Caribbean,76.699,11126423,4105.879487
+Cuba,2005,Latin America & Caribbean,77.688,11261586,5182.819696
+Cuba,2010,Latin America & Caribbean,78.338,11225833,6759.342799
+Cuba,2015,Latin America & Caribbean,78.561,11324777,7694.014637
+Cuba,2020,Latin America & Caribbean,78.892,11326616,7156.106821
+Curacao,2000,Latin America & Caribbean,,133860,22296.88073
+Curacao,2005,Latin America & Caribbean,,137658,21870.78009
+Curacao,2010,Latin America & Caribbean,,148703,21450.31391
+Curacao,2015,Latin America & Caribbean,78.07560976,157980,19951.3279
+Curacao,2020,Latin America & Caribbean,,154947,15262.27101
+Cyprus,2000,Europe & Central Asia,78.009,943288,22382.39722
+Cyprus,2005,Europe & Central Asia,78.63,1027657,25629.58417
+Cyprus,2010,Europe & Central Asia,79.43,1112617,26019.76438
+Cyprus,2015,Europe & Central Asia,80.35,1160987,23408.33668
+Cyprus,2020,Europe & Central Asia,81.135,1207361,26372.65469
+Czech Republic,2000,Europe & Central Asia,74.96829268,10255063,12312.49777
+Czech Republic,2005,Europe & Central Asia,75.92439024,10211216,14978.41319
+Czech Republic,2010,Europe & Central Asia,77.42439024,10474410,16505.9537
+Czech Republic,2015,Europe & Central Asia,78.57804878,10546059,17829.69832
+Czech Republic,2020,Europe & Central Asia,78.22682927,10697858,18984.6373
+Denmark,2000,Europe & Central Asia,76.59268293,5339616,49241.928
+Denmark,2005,Europe & Central Asia,77.84390244,5419432,51835.83271
+Denmark,2010,Europe & Central Asia,79.1,5547683,51173.46616
+Denmark,2015,Europe & Central Asia,80.70243902,5683483,53254.85637
+Denmark,2020,Europe & Central Asia,81.55121951,5831404,56202.16585
+Djibouti,2000,Middle East & North Africa,57.022,717577,
+Djibouti,2005,Middle East & North Africa,57.991,783248,
+Djibouti,2010,Middle East & North Africa,60.062,840194,
+Djibouti,2015,Middle East & North Africa,64.136,913998,2658.949245
+Djibouti,2020,Middle East & North Africa,67.49,988002,3246.746898
+Dominica,2000,Latin America & Caribbean,,69650,6149.838587
+Dominica,2005,Latin America & Caribbean,,70580,6501.405457
+Dominica,2010,Latin America & Caribbean,,70877,7680.48354
+Dominica,2015,Latin America & Caribbean,,71175,7597.288894
+Dominica,2020,Latin America & Caribbean,,71991,6583.223503
+Dominican Republic,2000,Latin America & Caribbean,69.429,8471317,4209.411868
+Dominican Republic,2005,Latin America & Caribbean,70.771,9097262,4647.037875
+Dominican Republic,2010,Latin America & Caribbean,72.046,9695117,5771.918418
+Dominican Republic,2015,Latin America & Caribbean,73.241,10281675,6921.520594
+Dominican Republic,2020,Latin America & Caribbean,74.257,10847904,7677.710372
+Ecuador,2000,Latin America & Caribbean,72.761,12681123,4209.344979
+Ecuador,2005,Latin America & Caribbean,74.112,13825839,4892.691322
+Ecuador,2010,Latin America & Caribbean,75.089,15011114,5323.737482
+Ecuador,2015,Latin America & Caribbean,76.143,16212022,6124.490887
+Ecuador,2020,Latin America & Caribbean,77.216,17643060,5317.677257
+"Egypt, Arab Rep.",2000,Middle East & North Africa,68.602,68831561,2610.476498
+"Egypt, Arab Rep.",2005,Middle East & North Africa,69.434,75523576,2830.350138
+"Egypt, Arab Rep.",2010,Middle East & North Africa,70.349,82761244,3485.282198
+"Egypt, Arab Rep.",2015,Middle East & North Africa,71.302,92442549,3562.932658
+"Egypt, Arab Rep.",2020,Middle East & North Africa,72.15,102334403,4028.42092
+El Salvador,2000,Latin America & Caribbean,68.875,5887930,2992.900789
+El Salvador,2005,Latin America & Caribbean,70.124,6052124,3140.032963
+El Salvador,2010,Latin America & Caribbean,71.21,6183877,3334.932842
+El Salvador,2015,Latin America & Caribbean,72.412,6325121,3705.579704
+El Salvador,2020,Latin America & Caribbean,73.533,6486201,3632.453881
+Equatorial Guinea,2000,Sub-Saharan Africa,53.279,606180,4454.038179
+Equatorial Guinea,2005,Sub-Saharan Africa,54.449,749527,12908.06387
+Equatorial Guinea,2010,Sub-Saharan Africa,55.622,943640,13841.39648
+Equatorial Guinea,2015,Sub-Saharan Africa,57.359,1168575,11283.39805
+Equatorial Guinea,2020,Sub-Saharan Africa,59.057,1402985,6777.835781
+Eritrea,2000,Sub-Saharan Africa,55.273,2292413,828.401675
+Eritrea,2005,Sub-Saharan Africa,58.707,2826653,762.399223
+Eritrea,2010,Sub-Saharan Africa,62.193,3170437,653.8687847
+Eritrea,2015,Sub-Saharan Africa,64.664,,
+Eritrea,2020,Sub-Saharan Africa,66.679,,
+Estonia,2000,Europe & Central Asia,70.41707317,1396985,9960.139039
+Estonia,2005,Europe & Central Asia,72.56829268,1354775,14631.38733
+Estonia,2010,Europe & Central Asia,75.42926829,1331475,14585.83866
+Estonia,2015,Europe & Central Asia,77.5902439,1315407,17402.03761
+Estonia,2020,Europe & Central Asia,78.34634146,1329479,19767.0776
+Eswatini,2000,Sub-Saharan Africa,47.49,1005432,2471.558841
+Eswatini,2005,Sub-Saharan Africa,42.518,1030575,2902.099077
+Eswatini,2010,Sub-Saharan Africa,46.601,1064841,3304.439792
+Eswatini,2015,Sub-Saharan Africa,55.359,1104038,3680.349473
+Eswatini,2020,Sub-Saharan Africa,60.721,1160164,3723.296142
+Ethiopia,2000,Sub-Saharan Africa,51.941,66224809,262.0253134
+Ethiopia,2005,Sub-Saharan Africa,56.223,76346310,310.4826498
+Ethiopia,2010,Sub-Saharan Africa,61.627,87639962,453.2988293
+Ethiopia,2015,Sub-Saharan Africa,65.048,100835453,640.5419231
+Ethiopia,2020,Sub-Saharan Africa,66.953,114963583,826.950339
+Faroe Islands,2000,Europe & Central Asia,78.43658537,46738,
+Faroe Islands,2005,Europe & Central Asia,79.2902439,47731,
+Faroe Islands,2010,Europe & Central Asia,80.68780488,47803,
+Faroe Islands,2015,Europe & Central Asia,81.79268293,48055,52400.29728
+Faroe Islands,2020,Europe & Central Asia,83.09268293,48865,
+Fiji,2000,East Asia & Pacific,65.687,811011,4106.966352
+Fiji,2005,East Asia & Pacific,66.313,821606,4570.285876
+Fiji,2010,East Asia & Pacific,66.655,859816,4523.866264
+Fiji,2015,East Asia & Pacific,67.103,868632,5390.714207
+Fiji,2020,East Asia & Pacific,67.561,896444,4911.083471
+Finland,2000,Europe & Central Asia,77.46585366,5176209,37884.39132
+Finland,2005,Europe & Central Asia,78.81707317,5246096,42530.61968
+Finland,2010,Europe & Central Asia,79.87073171,5363352,43563.5722
+Finland,2015,Europe & Central Asia,81.48048781,5479531,42801.90812
+Finland,2020,Europe & Central Asia,82.13170732,5529543,44778.86568
+France,2000,Europe & Central Asia,79.05609756,60912500,33597.36624
+France,2005,Europe & Central Asia,80.16341463,63179356,35213.89309
+France,2010,Europe & Central Asia,81.66341463,65027505,35639.80406
+France,2015,Europe & Central Asia,82.32195122,66548272,36652.92231
+France,2020,Europe & Central Asia,82.17560976,67379908,35785.96701
+French Polynesia,2000,East Asia & Pacific,72.303,240681,
+French Polynesia,2005,East Asia & Pacific,74.116,258780,
+French Polynesia,2010,East Asia & Pacific,75.611,266449,
+French Polynesia,2015,East Asia & Pacific,76.787,273119,
+French Polynesia,2020,East Asia & Pacific,77.836,280904,
+Gabon,2000,Sub-Saharan Africa,58.264,1228359,7888.062091
+Gabon,2005,Sub-Saharan Africa,58.181,1390550,7504.259959
+Gabon,2010,Sub-Saharan Africa,61.4,1624146,6863.538764
+Gabon,2015,Sub-Saharan Africa,64.913,1947690,7384.700704
+Gabon,2020,Sub-Saharan Africa,66.69,2225728,6818.496837
+"Gambia, The",2000,Sub-Saharan Africa,55.956,1317708,728.7095958
+"Gambia, The",2005,Sub-Saharan Africa,57.939,1543745,711.2819446
+"Gambia, The",2010,Sub-Saharan Africa,59.637,1793199,753.1767906
+"Gambia, The",2015,Sub-Saharan Africa,60.91,2085860,660.7235712
+"Gambia, The",2020,Sub-Saharan Africa,62.383,2416664,692.207538
+Georgia,2000,Europe & Central Asia,69.902,4077131,1566.560257
+Georgia,2005,Europe & Central Asia,70.538,3902469,2329.570854
+Georgia,2010,Europe & Central Asia,71.46,3786695,3100.723427
+Georgia,2015,Europe & Central Asia,72.973,3725276,4014.185944
+Georgia,2020,Europe & Central Asia,73.919,3722716,4447.664251
+Germany,2000,Europe & Central Asia,77.92682927,82211508,34490.07577
+Germany,2005,Europe & Central Asia,78.93170732,82469422,35310.47047
+Germany,2010,Europe & Central Asia,79.98780488,81776930,37760.91363
+Germany,2015,Europe & Central Asia,80.64146342,81686611,41103.25644
+Germany,2020,Europe & Central Asia,80.94146342,83160871,41315.31357
+Ghana,2000,Sub-Saharan Africa,57.002,19278850,1040.634099
+Ghana,2005,Sub-Saharan Africa,58.719,21814648,1175.86166
+Ghana,2010,Sub-Saharan Africa,61.03,24779614,1419.120302
+Ghana,2015,Sub-Saharan Africa,62.772,27849203,1774.074771
+Ghana,2020,Sub-Saharan Africa,64.347,31072945,2018.624067
+Gibraltar,2000,Europe & Central Asia,,31081,
+Gibraltar,2005,Europe & Central Asia,,33222,
+Gibraltar,2010,Europe & Central Asia,,33585,
+Gibraltar,2015,Europe & Central Asia,,33742,
+Gibraltar,2020,Europe & Central Asia,,33691,
+Greece,2000,Europe & Central Asia,77.88780488,10805808,18642.88288
+Greece,2005,Europe & Central Asia,79.23902439,10987314,22185.61681
+Greece,2010,Europe & Central Asia,80.38780488,11121341,21560.35335
+Greece,2015,Europe & Central Asia,81.03658537,10820883,18083.87791
+Greece,2020,Europe & Central Asia,81.08780488,10700556,17323.82277
+Greenland,2000,Europe & Central Asia,66.22243902,56200,31614.65173
+Greenland,2005,Europe & Central Asia,68.42731707,56935,36681.84375
+Greenland,2010,Europe & Central Asia,70.29195122,56905,43198.07731
+Greenland,2015,Europe & Central Asia,71.97731707,56114,44536.40131
+Greenland,2020,Europe & Central Asia,71.40463415,56367,
+Grenada,2000,Latin America & Caribbean,72.648,102837,6976.716777
+Grenada,2005,Latin America & Caribbean,73.123,104658,8558.828719
+Grenada,2010,Latin America & Caribbean,72.867,106227,8057.686508
+Grenada,2015,Latin America & Caribbean,72.445,109603,9096.538652
+Grenada,2020,Latin America & Caribbean,72.426,112519,8703.932476
+Guam,2000,East Asia & Pacific,75.011,155323,
+Guam,2005,East Asia & Pacific,76.687,158406,33743.74141
+Guam,2010,East Asia & Pacific,77.941,159439,34094.34882
+Guam,2015,East Asia & Pacific,79.144,161851,35829.25036
+Guam,2020,East Asia & Pacific,80.277,168783,31162.67596
+Guatemala,2000,Latin America & Caribbean,67.849,11589761,3195.39434
+Guatemala,2005,Latin America & Caribbean,69.762,12948292,3320.164071
+Guatemala,2010,Latin America & Caribbean,71.481,14259687,3606.430549
+Guatemala,2015,Latin America & Caribbean,73.25,15567419,3994.636913
+Guatemala,2020,Latin America & Caribbean,74.529,16858333,4126.205512
+Guinea,2000,Sub-Saharan Africa,51.203,8240735,628.1550971
+Guinea,2005,Sub-Saharan Africa,53.238,9109585,661.1025032
+Guinea,2010,Sub-Saharan Africa,56.861,10192168,689.2566887
+Guinea,2015,Sub-Saharan Africa,59.598,11432096,769.2554754
+Guinea,2020,Sub-Saharan Africa,61.962,13132792,984.008345
+Guinea-Bissau,2000,Sub-Saharan Africa,50.368,1201305,577.4856649
+Guinea-Bissau,2005,Sub-Saharan Africa,52.275,1344931,562.3848559
+Guinea-Bissau,2010,Sub-Saharan Africa,54.628,1522603,585.691609
+Guinea-Bissau,2015,Sub-Saharan Africa,56.959,1737207,603.3993815
+Guinea-Bissau,2020,Sub-Saharan Africa,58.634,1967998,619.2891578
+Guyana,2000,Latin America & Caribbean,65.242,746718,3850.817783
+Guyana,2005,Latin America & Caribbean,66.694,746156,3944.444745
+Guyana,2010,Latin America & Caribbean,68.059,749430,4847.43148
+Guyana,2015,Latin America & Caribbean,69.262,767433,5576.825852
+Guyana,2020,Latin America & Caribbean,70.023,786559,9250.301674
+Haiti,2000,Latin America & Caribbean,57.131,8463802,1315.943896
+Haiti,2005,Latin America & Caribbean,58.652,9195289,1283.897146
+Haiti,2010,Latin America & Caribbean,60.511,9949318,1296.805666
+Haiti,2015,Latin America & Caribbean,62.485,10695540,1386.854191
+Haiti,2020,Latin America & Caribbean,64.315,11402533,1311.708137
+Honduras,2000,Latin America & Caribbean,70.689,6574510,1777.920233
+Honduras,2005,Latin America & Caribbean,72.026,7458982,1967.217298
+Honduras,2010,Latin America & Caribbean,73.317,8317467,2106.002756
+Honduras,2015,Latin America & Caribbean,74.495,9112904,2286.203037
+Honduras,2020,Latin America & Caribbean,75.448,9904608,2223.446019
+"Hong Kong SAR, China",2000,East Asia & Pacific,80.87804878,6665000,26933.12024
+"Hong Kong SAR, China",2005,East Asia & Pacific,81.62926829,6813200,32401.20688
+"Hong Kong SAR, China",2010,East Asia & Pacific,82.97804878,7024200,38089.77894
+"Hong Kong SAR, China",2015,East Asia & Pacific,84.27804878,7291300,42431.88828
+"Hong Kong SAR, China",2020,East Asia & Pacific,85.38780488,7481800,41644.31644
+Hungary,2000,Europe & Central Asia,71.24634146,10210971,8970.511234
+Hungary,2005,Europe & Central Asia,72.64878049,10087065,11282.92991
+Hungary,2010,Europe & Central Asia,74.20731707,10000023,11313.52289
+Hungary,2015,Europe & Central Asia,75.56829268,9843028,12720.71202
+Hungary,2020,Europe & Central Asia,75.61707317,9750149,14368.69312
+Iceland,2000,Europe & Central Asia,79.65365854,281205,42174.66506
+Iceland,2005,Europe & Central Asia,81.50243902,296734,48850.76586
+Iceland,2010,Europe & Central Asia,81.89756098,318041,48193.7014
+Iceland,2015,Europe & Central Asia,82.46829268,330815,52951.68151
+Iceland,2020,Europe & Central Asia,83.06585366,366463,53188.03981
+India,2000,South Asia,62.505,1056575548,757.6687472
+India,2005,South Asia,64.5,1147609924,953.567973
+India,2010,South Asia,66.693,1234281163,1244.366016
+India,2015,South Asia,68.607,1310152392,1605.605445
+India,2020,South Asia,69.887,1380004385,1811.684238
+Indonesia,2000,East Asia & Pacific,65.772,211513822,1867.548796
+Indonesia,2005,East Asia & Pacific,67.334,226289468,2199.093914
+Indonesia,2010,East Asia & Pacific,69.205,241834226,2720.191622
+Indonesia,2015,East Asia & Pacific,70.768,258383257,3331.695115
+Indonesia,2020,East Asia & Pacific,71.908,273523621,3756.907174
+"Iran, Islamic Rep.",2000,Middle East & North Africa,70.176,65623397,3888.050977
+"Iran, Islamic Rep.",2005,Middle East & North Africa,71.917,69762345,4634.010618
+"Iran, Islamic Rep.",2010,Middle East & North Africa,73.905,73762519,5332.108057
+"Iran, Islamic Rep.",2015,Middle East & North Africa,75.796,78492208,4904.327315
+"Iran, Islamic Rep.",2020,Middle East & North Africa,76.87,83992953,4883.600865
+Iraq,2000,Middle East & North Africa,69.082,23497589,4337.417172
+Iraq,2005,Middle East & North Africa,68.266,26922279,3493.344742
+Iraq,2010,Middle East & North Africa,68.567,29741977,4052.062613
+Iraq,2015,Middle East & North Africa,69.929,35572269,4688.318017
+Iraq,2020,Middle East & North Africa,70.748,40222503,4247.814412
+Ireland,2000,Europe & Central Asia,76.53658537,3805174,41623.05751
+Ireland,2005,Europe & Central Asia,78.94390244,4159914,49381.77558
+Ireland,2010,Europe & Central Asia,80.74390244,4560155,45932.01374
+Ireland,2015,Europe & Central Asia,81.45365854,4701957,62012.48493
+Ireland,2020,Europe & Central Asia,82.20487805,4985674,78732.55332
+Isle of Man,2000,Europe & Central Asia,,76942,45506.46912
+Isle of Man,2005,Europe & Central Asia,,80293,57642.34176
+Isle of Man,2010,Europe & Central Asia,,84856,69933.08324
+Isle of Man,2015,Europe & Central Asia,,83232,85126.97047
+Isle of Man,2020,Europe & Central Asia,,85032,
+Israel,2000,Middle East & North Africa,78.95365854,6289000,28747.92911
+Israel,2005,Middle East & North Africa,80.15121951,6930100,28809.64251
+Israel,2010,Middle East & North Africa,81.60243902,7623600,32504.71335
+Israel,2015,Middle East & North Africa,82.05121951,8380100,35808.43643
+Israel,2020,Middle East & North Africa,82.7,9215100,37488.45495
+Italy,2000,Europe & Central Asia,79.77804878,56942108,32350.90437
+Italy,2005,Europe & Central Asia,80.78292683,57969484,33257.7698
+Italy,2010,Europe & Central Asia,82.03658537,59277417,32058.17399
+Italy,2015,Europe & Central Asia,82.54390244,60730582,30242.38614
+Italy,2020,Europe & Central Asia,82.34390244,59449527,29359.92669
+Jamaica,2000,Latin America & Caribbean,74.142,2654698,4841.3157
+Jamaica,2005,Latin America & Caribbean,74.148,2740000,5138.44741
+Jamaica,2010,Latin America & Caribbean,74.038,2810464,4888.579138
+Jamaica,2015,Latin America & Caribbean,74.098,2891024,4907.927415
+Jamaica,2020,Latin America & Caribbean,74.586,2961161,4539.001917
+Japan,2000,East Asia & Pacific,81.07609756,126843000,31430.63113
+Japan,2005,East Asia & Pacific,81.92512195,127773000,33098.54747
+Japan,2010,East Asia & Pacific,82.84268293,128070000,32942.20208
+Japan,2015,East Asia & Pacific,83.79390244,127141000,34960.63938
+Japan,2020,East Asia & Pacific,84.61560976,125836021,34813.21561
+Jordan,2000,Middle East & North Africa,71.73,5122495,3587.826696
+Jordan,2005,Middle East & North Africa,72.595,5765639,4341.188718
+Jordan,2010,Middle East & North Africa,73.428,7261541,4644.16937
+Jordan,2015,Middle East & North Africa,74.078,9266573,4164.108769
+Jordan,2020,Middle East & North Africa,74.655,10203140,4028.963007
+Kazakhstan,2000,Europe & Central Asia,65.45,14883626,4446.452533
+Kazakhstan,2005,Europe & Central Asia,65.86,15147029,7155.343663
+Kazakhstan,2010,Europe & Central Asia,68.45,16321872,8979.332284
+Kazakhstan,2015,Europe & Central Asia,71.97,17542806,10510.77189
+Kazakhstan,2020,Europe & Central Asia,71.37,18754440,10974.96367
+Kenya,2000,Sub-Saharan Africa,50.921,31964557,1145.984616
+Kenya,2005,Sub-Saharan Africa,54.732,36624897,1195.773841
+Kenya,2010,Sub-Saharan Africa,60.959,42030684,1326.385821
+Kenya,2015,Sub-Saharan Africa,64.798,47878339,1464.554009
+Kenya,2020,Sub-Saharan Africa,66.991,53771300,1559.551464
+Kiribati,2000,East Asia & Pacific,63.144,84405,1553.05837
+Kiribati,2005,East Asia & Pacific,64.478,92319,1529.175871
+Kiribati,2010,East Asia & Pacific,65.769,102930,1367.740107
+Kiribati,2015,East Asia & Pacific,67.291,110927,1542.616465
+Kiribati,2020,East Asia & Pacific,68.611,119446,1606.980027
+"Korea, Dem. People's Rep.",2000,East Asia & Pacific,65.268,22929078,
+"Korea, Dem. People's Rep.",2005,East Asia & Pacific,68.389,23904167,
+"Korea, Dem. People's Rep.",2010,East Asia & Pacific,69.571,24548840,
+"Korea, Dem. People's Rep.",2015,East Asia & Pacific,71.481,25183832,
+"Korea, Dem. People's Rep.",2020,East Asia & Pacific,72.453,25778815,
+"Korea, Rep.",2000,East Asia & Pacific,75.9097561,47008111,16992.47908
+"Korea, Rep.",2005,East Asia & Pacific,78.16829268,48184561,21193.35751
+"Korea, Rep.",2010,East Asia & Pacific,80.11707317,49554112,25451.00416
+"Korea, Rep.",2015,East Asia & Pacific,82.02439024,51014947,28732.23108
+"Korea, Rep.",2020,East Asia & Pacific,83.42682927,51836239,31327.4094
+Kosovo,2000,Europe & Central Asia,67.95121951,1700000,
+Kosovo,2005,Europe & Central Asia,68.69512195,1705780,
+Kosovo,2010,Europe & Central Asia,69.9,1775680,2843.380023
+Kosovo,2015,Europe & Central Asia,71.34634146,1788196,3520.766449
+Kosovo,2020,Europe & Central Asia,71.08780488,1790133,3990.970274
+Kuwait,2000,Middle East & North Africa,73.142,2045123,29951.56661
+Kuwait,2005,Middle East & North Africa,73.538,2270196,39849.59691
+Kuwait,2010,Middle East & North Africa,74.358,2991884,32035.37848
+Kuwait,2015,Middle East & North Africa,75.13,3835588,29869.55275
+Kuwait,2020,Middle East & North Africa,75.586,4270563,24429.22046
+Kyrgyz Republic,2000,Europe & Central Asia,68.55853659,4898400,718.3373488
+Kyrgyz Republic,2005,Europe & Central Asia,67.95609756,5162600,820.7159801
+Kyrgyz Republic,2010,Europe & Central Asia,69.3,5447900,966.15073
+Kyrgyz Republic,2015,Europe & Central Asia,70.65121951,5956900,1121.082835
+Kyrgyz Republic,2020,Europe & Central Asia,71.8,6579900,1100.037916
+Lao PDR,2000,East Asia & Pacific,58.803,5323701,935.751331
+Lao PDR,2005,East Asia & Pacific,61.625,5751675,1172.217346
+Lao PDR,2010,East Asia & Pacific,64.306,6249168,1586.20293
+Lao PDR,2015,East Asia & Pacific,66.546,6741160,2140.044323
+Lao PDR,2020,East Asia & Pacific,68.219,7275556,2554.425463
+Latvia,2000,Europe & Central Asia,70.31463415,2367550,6726.504906
+Latvia,2005,Europe & Central Asia,71.35609756,2238799,10527.91274
+Latvia,2010,Europe & Central Asia,73.48292683,2097555,10963.67875
+Latvia,2015,Europe & Central Asia,74.48048781,1977527,13786.4568
+Latvia,2020,Europe & Central Asia,75.38780488,1900449,15583.93103
+Lebanon,2000,Middle East & North Africa,74.507,3842774,6728.550305
+Lebanon,2005,Middle East & North Africa,76.865,4698761,6682.651565
+Lebanon,2010,Middle East & North Africa,78.36,4953064,9135.500685
+Lebanon,2015,Middle East & North Africa,78.768,6532681,7663.920232
+Lebanon,2020,Middle East & North Africa,79.004,6825442,5382.337125
+Lesotho,2000,Sub-Saharan Africa,47.691,2032805,715.0085118
+Lesotho,2005,Sub-Saharan Africa,42.658,1996115,835.6097832
+Lesotho,2010,Sub-Saharan Africa,45.1,1995575,995.581359
+Lesotho,2015,Sub-Saharan Africa,51.038,2059011,1146.064688
+Lesotho,2020,Sub-Saharan Africa,54.836,2142252,982.970426
+Liberia,2000,Sub-Saharan Africa,51.734,2848447,775.9638292
+Liberia,2005,Sub-Saharan Africa,55.393,3218114,553.5675654
+Liberia,2010,Sub-Saharan Africa,59.6,3891357,648.5526835
+Liberia,2015,Sub-Saharan Africa,62.269,4472229,721.5810505
+Liberia,2020,Sub-Saharan Africa,64.423,5057677,616.0026928
+Libya,2000,Middle East & North Africa,70.852,5357893,6590.560078
+Libya,2005,Middle East & North Africa,71.902,5798615,7825.220686
+Libya,2010,Middle East & North Africa,72.044,6197667,8870.660932
+Libya,2015,Middle East & North Africa,72.121,6418315,4337.919139
+Libya,2020,Middle East & North Africa,73.082,6871287,4046.634946
+Liechtenstein,2000,Europe & Central Asia,76.82682927,33184,
+Liechtenstein,2005,Europe & Central Asia,80.66829268,34718,
+Liechtenstein,2010,Europe & Central Asia,81.84146342,35996,
+Liechtenstein,2015,Europe & Central Asia,82.65609756,37465,167313.2663
+Liechtenstein,2020,Europe & Central Asia,81.80731707,38137,
+Lithuania,2000,Europe & Central Asia,72.0195122,3499536,6423.420676
+Lithuania,2005,Europe & Central Asia,71.25365854,3322528,9766.487647
+Lithuania,2010,Europe & Central Asia,73.26829268,3097282,11106.95021
+Lithuania,2015,Europe & Central Asia,74.32195122,2904910,14263.96458
+Lithuania,2020,Europe & Central Asia,74.92926829,2794885,17213.8143
+Luxembourg,2000,Europe & Central Asia,77.87317073,436300,92527.71181
+Luxembourg,2005,Europe & Central Asia,79.43170732,465158,101222.0457
+Luxembourg,2010,Europe & Central Asia,80.63170732,506953,106544.0572
+Luxembourg,2015,Europe & Central Asia,82.29268293,569604,105462.0126
+Luxembourg,2020,Europe & Central Asia,81.74146342,630419,104879.2562
+"Macao SAR, China",2000,East Asia & Pacific,80.407,427772,31973.25872
+"Macao SAR, China",2005,East Asia & Pacific,81.523,482863,48495.20716
+"Macao SAR, China",2010,East Asia & Pacific,82.704,538215,73991.00479
+"Macao SAR, China",2015,East Asia & Pacific,83.707,602093,74818.94813
+"Macao SAR, China",2020,East Asia & Pacific,84.37,649342,36172.29279
+Madagascar,2000,Sub-Saharan Africa,58.485,15766806,487.6601399
+Madagascar,2005,Sub-Saharan Africa,61.212,18336722,471.1949165
+Madagascar,2010,Sub-Saharan Africa,63.388,21151640,469.2405278
+Madagascar,2015,Sub-Saharan Africa,65.539,24234080,467.2354316
+Madagascar,2020,Sub-Saharan Africa,67.39,27691019,442.1929571
+Malawi,2000,Sub-Saharan Africa,45.09,11148751,294.3439181
+Malawi,2005,Sub-Saharan Africa,47.844,12625950,289.0468576
+Malawi,2010,Sub-Saharan Africa,55.564,14539609,358.9409028
+Malawi,2015,Sub-Saharan Africa,61.953,16745305,380.5969877
+Malawi,2020,Sub-Saharan Africa,64.694,19129955,394.0031621
+Malaysia,2000,East Asia & Pacific,72.594,23194252,6392.580855
+Malaysia,2005,East Asia & Pacific,73.555,25690615,7274.971097
+Malaysia,2010,East Asia & Pacific,74.493,28208028,8247.782262
+Malaysia,2015,East Asia & Pacific,75.461,30270965,9955.242722
+Malaysia,2020,East Asia & Pacific,76.306,32365998,10631.50739
+Maldives,2000,South Asia,70.173,279396,6981.54797
+Maldives,2005,South Asia,73.612,319604,6589.127171
+Maldives,2010,South Asia,75.905,365730,8521.838105
+Maldives,2015,South Asia,77.691,454914,9033.41027
+Maldives,2020,South Asia,79.208,540542,6660.833299
+Mali,2000,Sub-Saharan Africa,48.069,10946448,571.6576875
+Mali,2005,Sub-Saharan Africa,52.057,12775509,687.934849
+Mali,2010,Sub-Saharan Africa,55.251,15049352,731.5337969
+Mali,2015,Sub-Saharan Africa,57.509,17438772,751.4728866
+Mali,2020,Sub-Saharan Africa,59.692,20250834,781.7314548
+Malta,2000,Middle East & North Africa,78.34878049,390087,17189.48931
+Malta,2005,Middle East & North Africa,79.3,403834,18133.97158
+Malta,2010,Middle East & North Africa,81.39756098,414508,20557.64638
+Malta,2015,Middle East & North Africa,81.89756098,445053,24921.60368
+Malta,2020,Middle East & North Africa,82.65365854,515332,25005.76331
+Marshall Islands,2000,East Asia & Pacific,65.23902439,50754,2976.841234
+Marshall Islands,2005,East Asia & Pacific,,55257,3080.342762
+Marshall Islands,2010,East Asia & Pacific,,56361,3208.023279
+Marshall Islands,2015,East Asia & Pacific,,57444,3199.886846
+Marshall Islands,2020,East Asia & Pacific,,59194,3508.798189
+Mauritania,2000,Sub-Saharan Africa,60.706,2630217,1296.321815
+Mauritania,2005,Sub-Saharan Africa,61.349,3024198,1378.595272
+Mauritania,2010,Sub-Saharan Africa,62.527,3494200,1417.049466
+Mauritania,2015,Sub-Saharan Africa,63.936,4046304,1524.071753
+Mauritania,2020,Sub-Saharan Africa,65.129,4649660,1549.957236
+Mauritius,2000,Sub-Saharan Africa,71.66341463,1186873,5533.976919
+Mauritius,2005,Sub-Saharan Africa,72.43219512,1228254,6316.442961
+Mauritius,2010,Sub-Saharan Africa,72.96731707,1250400,7817.841119
+Mauritius,2015,Sub-Saharan Africa,74.35317073,1262605,9260.447303
+Mauritius,2020,Sub-Saharan Africa,74.17707317,1265740,9058.207089
+Mexico,2000,Latin America & Caribbean,74.34,98899845,8861.869566
+Mexico,2005,Latin America & Caribbean,75.3,106005199,8877.851291
+Mexico,2010,Latin America & Caribbean,75.065,114092961,8878.561377
+Mexico,2015,Latin America & Caribbean,74.904,121858251,9616.645558
+Mexico,2020,Latin America & Caribbean,75.131,128932753,8909.677654
+"Micronesia, Fed. Sts.",2000,East Asia & Pacific,64.55,107405,2894.64294
+"Micronesia, Fed. Sts.",2005,East Asia & Pacific,65.489,106135,3022.795709
+"Micronesia, Fed. Sts.",2010,East Asia & Pacific,66.471,102916,3084.75391
+"Micronesia, Fed. Sts.",2015,East Asia & Pacific,67.315,108886,2906.617012
+"Micronesia, Fed. Sts.",2020,East Asia & Pacific,68.002,115021,2839.388103
+Moldova,2000,Europe & Central Asia,67.006,2923783,1338.263271
+Moldova,2005,Europe & Central Asia,67.82,2888111,1907.115121
+Moldova,2010,Europe & Central Asia,69.616,2861487,2254.93281
+Moldova,2015,Europe & Central Asia,71.478,2834530,2732.457113
+Moldova,2020,Europe & Central Asia,72.006,2620495,3250.305715
+Monaco,2000,Europe & Central Asia,,32148,121655.1602
+Monaco,2005,Europe & Central Asia,,33842,125925.4666
+Monaco,2010,Europe & Central Asia,,35609,132094.0117
+Monaco,2015,Europe & Central Asia,,37723,165989.5051
+Monaco,2020,Europe & Central Asia,,39244,159221.6168
+Mongolia,2000,East Asia & Pacific,62.869,2397417,1592.233995
+Mongolia,2005,East Asia & Pacific,65.103,2526429,2068.398544
+Mongolia,2010,East Asia & Pacific,67.38,2719902,2629.648326
+Mongolia,2015,East Asia & Pacific,69.111,2998433,3875.321675
+Mongolia,2020,East Asia & Pacific,70.056,3278292,4126.699124
+Montenegro,2000,Europe & Central Asia,73.18207317,604950,4429.614837
+Montenegro,2005,Europe & Central Asia,73.98292683,614261,5010.949707
+Montenegro,2010,Europe & Central Asia,75.9902439,619428,5979.519005
+Montenegro,2015,Europe & Central Asia,76.44878049,622159,6514.272695
+Montenegro,2020,Europe & Central Asia,75.93170732,621306,6512.617568
+Morocco,2000,Middle East & North Africa,68.684,28793672,1763.400733
+Morocco,2005,Middle East & North Africa,71.746,30455563,2109.062152
+Morocco,2010,Middle East & North Africa,74.382,32343384,2534.259141
+Morocco,2015,Middle East & North Africa,75.726,34663608,2875.257985
+Morocco,2020,Middle East & North Africa,76.901,36910558,2818.771657
+Mozambique,2000,Sub-Saharan Africa,48.946,17711925,294.6469084
+Mozambique,2005,Sub-Saharan Africa,50.387,20493927,383.7107749
+Mozambique,2010,Sub-Saharan Africa,52.31,23531567,479.8844861
+Mozambique,2015,Sub-Saharan Africa,57.206,27042001,589.85905
+Mozambique,2020,Sub-Saharan Africa,61.387,31255435,574.5951778
+Myanmar,2000,East Asia & Pacific,60.063,46719698,309.9657289
+Myanmar,2005,East Asia & Pacific,61.607,48949931,542.2191403
+Myanmar,2010,East Asia & Pacific,63.525,50600827,902.541871
+Myanmar,2015,East Asia & Pacific,65.81,52680724,1196.743357
+Myanmar,2020,East Asia & Pacific,67.363,54409794,1586.90232
+Namibia,2000,Sub-Saharan Africa,52.192,1794583,3124.95037
+Namibia,2005,Sub-Saharan Africa,50.931,1938316,3680.65922
+Namibia,2010,Sub-Saharan Africa,56.665,2118877,4147.315398
+Namibia,2015,Sub-Saharan Africa,62.119,2314901,4896.61526
+Namibia,2020,Sub-Saharan Africa,64.045,2540916,4047.862166
+Nauru,2000,East Asia & Pacific,,10335,
+Nauru,2005,East Asia & Pacific,,9848,3347.246194
+Nauru,2010,East Asia & Pacific,,10009,4116.754986
+Nauru,2015,East Asia & Pacific,,10374,8341.012278
+Nauru,2020,East Asia & Pacific,,10834,8367.188613
+Nepal,2000,South Asia,62.288,23941099,562.3031305
+Nepal,2005,South Asia,65.264,25744500,617.7939891
+Nepal,2010,South Asia,67.611,27013207,731.6618133
+Nepal,2015,South Asia,69.515,27015033,901.7496077
+Nepal,2020,South Asia,71.067,29136808,1028.463277
+Netherlands,2000,Europe & Central Asia,77.98780488,15925513,40456.94224
+Netherlands,2005,Europe & Central Asia,79.34634146,16319868,42201.77541
+Netherlands,2010,Europe & Central Asia,80.70243902,16615394,44390.50441
+Netherlands,2015,Europe & Central Asia,81.5097561,16939923,45193.40322
+Netherlands,2020,Europe & Central Asia,81.4097561,17441500,46345.34721
+New Caledonia,2000,East Asia & Pacific,75.16341463,213230,
+New Caledonia,2005,East Asia & Pacific,75.72195122,232250,
+New Caledonia,2010,East Asia & Pacific,77.28048781,249750,
+New Caledonia,2015,East Asia & Pacific,77.28048781,268700,32520.29416
+New Caledonia,2020,East Asia & Pacific,77.77117073,271960,
+New Zealand,2000,East Asia & Pacific,78.63658537,3857700,30874.68701
+New Zealand,2005,East Asia & Pacific,79.85121951,4133900,35064.49646
+New Zealand,2010,East Asia & Pacific,80.70243902,4350700,35406.67675
+New Zealand,2015,East Asia & Pacific,81.45682927,4609400,38630.72659
+New Zealand,2020,East Asia & Pacific,82.05609756,5084300,40218.39102
+Nicaragua,2000,Latin America & Caribbean,69.527,5069310,1444.952523
+Nicaragua,2005,Latin America & Caribbean,71.195,5438692,1573.053035
+Nicaragua,2010,Latin America & Caribbean,72.428,5824058,1679.037115
+Nicaragua,2015,Latin America & Caribbean,73.649,6223234,2049.851666
+Nicaragua,2020,Latin America & Caribbean,74.697,6624554,1922.35386
+Niger,2000,Sub-Saharan Africa,49.928,11331561,399.0727926
+Niger,2005,Sub-Saharan Africa,53.411,13624474,411.1275495
+Niger,2010,Sub-Saharan Africa,57.333,16464025,443.3512654
+Niger,2015,Sub-Saharan Africa,60.631,20001663,484.1531374
+Niger,2020,Sub-Saharan Africa,62.792,24206636,522.5555831
+Nigeria,2000,Sub-Saharan Africa,46.267,122283853,1450.783839
+Nigeria,2005,Sub-Saharan Africa,48.252,138865014,1948.048436
+Nigeria,2010,Sub-Saharan Africa,50.896,158503203,2403.645256
+Nigeria,2015,Sub-Saharan Africa,53.112,181137454,2687.480056
+Nigeria,2020,Sub-Saharan Africa,55.018,206139587,2396.036462
+North Macedonia,2000,Europe & Central Asia,72.94634146,2026350,3283.377863
+North Macedonia,2005,Europe & Central Asia,73.69756098,2036855,3600.952284
+North Macedonia,2010,Europe & Central Asia,74.99756098,2055004,4339.96438
+North Macedonia,2015,Europe & Central Asia,75.40243902,2070226,4861.553971
+North Macedonia,2020,Europe & Central Asia,75.69317073,2072531,5115.918611
+Northern Mariana Islands,2000,East Asia & Pacific,,57453,
+Northern Mariana Islands,2005,East Asia & Pacific,,56547,24129.45841
+Northern Mariana Islands,2010,East Asia & Pacific,,53971,16329.53275
+Northern Mariana Islands,2015,East Asia & Pacific,,55779,16314.38355
+Northern Mariana Islands,2020,East Asia & Pacific,,57557,
+Norway,2000,Europe & Central Asia,78.63414634,4490967,67437.74336
+Norway,2005,Europe & Central Asia,80.04146342,4623291,73036.74036
+Norway,2010,Europe & Central Asia,80.99756098,4889252,72426.56522
+Norway,2015,Europe & Central Asia,82.30487805,5188607,74355.51586
+Norway,2020,Europe & Central Asia,83.2097561,5379475,75017.15675
+Oman,2000,Middle East & North Africa,72.126,2267973,20624.78826
+Oman,2005,Middle East & North Africa,74.23,2511254,19448.46521
+Oman,2010,Middle East & North Africa,75.682,3041435,20640.30778
+Oman,2015,Middle East & North Africa,76.887,4267341,18444.927
+Oman,2020,Middle East & North Africa,78.078,5106622,15743.22429
+Pakistan,2000,South Asia,62.82,142343583,1029.112585
+Pakistan,2005,South Asia,63.951,160304007,1175.437453
+Pakistan,2010,South Asia,65.264,179424643,1238.873484
+Pakistan,2015,South Asia,66.577,199426953,1356.667831
+Pakistan,2020,South Asia,67.428,220892331,1446.811977
+Palau,2000,East Asia & Pacific,70.49365854,19104,11762.94493
+Palau,2005,East Asia & Pacific,69.12926829,19784,13205.50445
+Palau,2010,East Asia & Pacific,,17954,13040.5425
+Palau,2015,East Asia & Pacific,,17665,15876.46193
+Palau,2020,East Asia & Pacific,,18092,13250.89961
+Panama,2000,Latin America & Caribbean,75.06,3030333,6955.28522
+Panama,2005,Latin America & Caribbean,75.892,3330222,7815.225209
+Panama,2010,Latin America & Caribbean,76.792,3642691,10232.3599
+Panama,2015,Latin America & Caribbean,77.776,3968490,13630.30114
+Panama,2020,Latin America & Caribbean,78.68,4314768,12172.31082
+Papua New Guinea,2000,East Asia & Pacific,59.265,5847590,1883.933898
+Papua New Guinea,2005,East Asia & Pacific,60.534,6494902,1887.673184
+Papua New Guinea,2010,East Asia & Pacific,62.029,7310512,2235.096323
+Papua New Guinea,2015,East Asia & Pacific,63.466,8107772,2679.346579
+Papua New Guinea,2020,East Asia & Pacific,64.725,8947027,2666.211255
+Paraguay,2000,Latin America & Caribbean,70.546,5323202,3904.302364
+Paraguay,2005,Latin America & Caribbean,71.667,5824095,3922.558526
+Paraguay,2010,Latin America & Caribbean,72.653,6248017,4767.277902
+Paraguay,2015,Latin America & Caribbean,73.662,6688746,5413.776021
+Paraguay,2020,Latin America & Caribbean,74.363,7132530,5670.751986
+Peru,2000,Latin America & Caribbean,71.111,26459944,3303.500937
+Peru,2005,Latin America & Caribbean,72.908,27866140,3867.5274
+Peru,2010,Latin America & Caribbean,74.41,29027680,5177.841284
+Peru,2015,Latin America & Caribbean,75.792,30470739,6229.100674
+Peru,2020,Latin America & Caribbean,76.947,32971846,5792.18794
+Philippines,2000,East Asia & Pacific,68.793,77991757,1830.913244
+Philippines,2005,East Asia & Pacific,69.112,86326251,2077.767983
+Philippines,2010,East Asia & Pacific,69.823,93966784,2433.008524
+Philippines,2015,East Asia & Pacific,70.644,102113206,3001.043182
+Philippines,2020,East Asia & Pacific,71.36,109581085,3269.670767
+Poland,2000,Europe & Central Asia,73.74878049,38258629,7356.775398
+Poland,2005,Europe & Central Asia,74.99512195,38165445,8569.429971
+Poland,2010,Europe & Central Asia,76.24634146,38042794,10858.53483
+Poland,2015,Europe & Central Asia,77.45121951,37986412,12578.49547
+Poland,2020,Europe & Central Asia,76.6,37899070,14660.79392
+Portugal,2000,Europe & Central Asia,76.31463415,10289898,18795.03115
+Portugal,2005,Europe & Central Asia,78.07073171,10503330,19224.03465
+Portugal,2010,Europe & Central Asia,79.02682927,10573100,19670.36107
+Portugal,2015,Europe & Central Asia,81.12439024,10358076,19250.10654
+Portugal,2020,Europe & Central Asia,80.97560976,10297081,19771.57742
+Puerto Rico,2000,Latin America & Caribbean,76.68926829,3810605,26132.00364
+Puerto Rico,2005,Latin America & Caribbean,78.29609756,3821362,29815.26271
+Puerto Rico,2010,Latin America & Caribbean,78.41909756,3721525,28592.12197
+Puerto Rico,2015,Latin America & Caribbean,79.35348781,3473232,29763.4883
+Puerto Rico,2020,Latin America & Caribbean,80.08746342,3281538,28236.78307
+Qatar,2000,Middle East & North Africa,77.467,592467,56864.98857
+Qatar,2005,Middle East & North Africa,78.252,865410,57624.12724
+Qatar,2010,Middle East & North Africa,79.108,1856329,63001.71005
+Qatar,2015,Middle East & North Africa,79.758,2565708,63039.11263
+Qatar,2020,Middle East & North Africa,80.363,2881060,56026.88724
+Romania,2000,Europe & Central Asia,71.16341463,22442971,4548.602113
+Romania,2005,Europe & Central Asia,71.91219512,21319685,6299.409918
+Romania,2010,Europe & Central Asia,73.45853659,20246871,7626.294198
+Romania,2015,Europe & Central Asia,74.91219512,19815616,8969.148921
+Romania,2020,Europe & Central Asia,74.35365854,19257520,10844.53484
+Russian Federation,2000,Europe & Central Asia,65.48365854,146596869,5323.662359
+Russian Federation,2005,Europe & Central Asia,65.5297561,143518814,7323.379289
+Russian Federation,2010,Europe & Central Asia,68.84121951,142849468,8755.113368
+Russian Federation,2015,Europe & Central Asia,71.18341463,144096870,9313.013625
+Russian Federation,2020,Europe & Central Asia,71.33878049,144104080,9666.814664
+Rwanda,2000,Sub-Saharan Africa,48.649,7933688,344.9399779
+Rwanda,2005,Sub-Saharan Africa,55.254,8840220,456.590745
+Rwanda,2010,Sub-Saharan Africa,63.433,10039338,599.2074262
+Rwanda,2015,Sub-Saharan Africa,67.45,11369066,751.0773926
+Rwanda,2020,Sub-Saharan Africa,69.329,12952209,834.3896159
+Samoa,2000,East Asia & Pacific,68.748,174454,3267.930153
+Samoa,2005,East Asia & Pacific,70.374,179722,4031.45271
+Samoa,2010,East Asia & Pacific,71.663,185944,4080.918359
+Samoa,2015,East Asia & Pacific,72.73,193510,4071.926959
+Samoa,2020,East Asia & Pacific,73.45,198410,4357.068633
+San Marino,2000,Europe & Central Asia,,27460,54463.33083
+San Marino,2005,Europe & Central Asia,,29324,60080.32239
+San Marino,2010,Europe & Central Asia,,31221,52932.42756
+San Marino,2015,Europe & Central Asia,,33270,42662.90265
+San Marino,2020,Europe & Central Asia,,33938,
+Sao Tome and Principe,2000,Sub-Saharan Africa,61.365,142264,
+Sao Tome and Principe,2005,Sub-Saharan Africa,64.659,157472,1206.09518
+Sao Tome and Principe,2010,Sub-Saharan Africa,67.43,180372,1402.302102
+Sao Tome and Principe,2015,Sub-Saharan Africa,69.377,199439,1584.775657
+Sao Tome and Principe,2020,Sub-Saharan Africa,70.583,219161,1692.218743
+Saudi Arabia,2000,Middle East & North Africa,72.561,20663840,17690.66766
+Saudi Arabia,2005,Middle East & North Africa,73.256,23816175,18683.38383
+Saudi Arabia,2010,Middle East & North Africa,73.917,27421468,18568.36986
+Saudi Arabia,2015,Middle East & North Africa,74.651,31717676,20627.92693
+Saudi Arabia,2020,Middle East & North Africa,75.28,34813867,18691.24742
+Senegal,2000,Sub-Saharan Africa,57.787,9797731,1066.621645
+Senegal,2005,Sub-Saharan Africa,60.62,11090123,1133.71699
+Senegal,2010,Sub-Saharan Africa,64.284,12678143,1149.646473
+Senegal,2015,Sub-Saharan Africa,66.747,14578450,1219.249415
+Senegal,2020,Sub-Saharan Africa,68.213,16743930,1364.838239
+Serbia,2000,Europe & Central Asia,71.58292683,7516346,3193.259737
+Serbia,2005,Europe & Central Asia,72.83414634,7440769,4404.960887
+Serbia,2010,Europe & Central Asia,74.33658537,7291436,5206.087957
+Serbia,2015,Europe & Central Asia,75.28780488,7095383,5588.980728
+Serbia,2020,Europe & Central Asia,74.22926829,6899126,6549.350063
+Seychelles,2000,Sub-Saharan Africa,72.77804878,81131,10946.70408
+Seychelles,2005,Sub-Saharan Africa,72.13170732,82858,10566.55274
+Seychelles,2010,Sub-Saharan Africa,73.19756098,89770,12080.94101
+Seychelles,2015,Sub-Saharan Africa,74.29512195,93419,14745.34146
+Seychelles,2020,Sub-Saharan Africa,77.23658537,98462,14079.16127
+Sierra Leone,2000,Sub-Saharan Africa,39.441,4584570,403.0498743
+Sierra Leone,2005,Sub-Saharan Africa,44.502,5645629,471.8881603
+Sierra Leone,2010,Sub-Saharan Africa,49.382,6415636,535.820735
+Sierra Leone,2015,Sub-Saharan Africa,52.941,7171909,588.2288628
+Sierra Leone,2020,Sub-Saharan Africa,55.066,7976985,623.8890927
+Singapore,2000,East Asia & Pacific,77.95121951,4027887,34876.66603
+Singapore,2005,East Asia & Pacific,79.9902439,4265762,41726.11407
+Singapore,2010,East Asia & Pacific,81.54146342,5076732,48668.57662
+Singapore,2015,East Asia & Pacific,82.74390244,5535002,55646.61875
+Singapore,2020,East Asia & Pacific,83.74390244,5685807,58056.80642
+Sint Maarten (Dutch part),2000,Latin America & Caribbean,,30519,
+Sint Maarten (Dutch part),2005,Latin America & Caribbean,,33011,
+Sint Maarten (Dutch part),2010,Latin America & Caribbean,,34056,33579.29623
+Sint Maarten (Dutch part),2015,Latin America & Caribbean,77.2195122,38825,32274.89055
+Sint Maarten (Dutch part),2020,Latin America & Caribbean,,42310,
+Slovak Republic,2000,Europe & Central Asia,73.05121951,5388720,8914.597543
+Slovak Republic,2005,Europe & Central Asia,73.90487805,5372807,11425.89829
+Slovak Republic,2010,Europe & Central Asia,75.11219512,5391428,14526.40225
+Slovak Republic,2015,Europe & Central Asia,76.56341463,5423801,16342.21626
+Slovak Republic,2020,Europe & Central Asia,76.86585366,5458827,17360.71119
+Slovenia,2000,Europe & Central Asia,75.41219512,1988925,16240.65689
+Slovenia,2005,Europe & Central Asia,77.61219512,2000474,19239.39991
+Slovenia,2010,Europe & Central Asia,79.42195122,2048583,20612.58953
+Slovenia,2015,Europe & Central Asia,80.77560976,2063531,20890.16643
+Slovenia,2020,Europe & Central Asia,80.53170732,2102419,22899.3607
+Solomon Islands,2000,East Asia & Pacific,67.442,412665,1939.074464
+Solomon Islands,2005,East Asia & Pacific,69.158,469918,1826.661574
+Solomon Islands,2010,East Asia & Pacific,70.674,527861,2099.330817
+Solomon Islands,2015,East Asia & Pacific,72.173,603133,2167.119928
+Solomon Islands,2020,East Asia & Pacific,73.132,686878,2136.337563
+Somalia,2000,Sub-Saharan Africa,50.869,8872250,
+Somalia,2005,Sub-Saharan Africa,52.346,10446856,
+Somalia,2010,Sub-Saharan Africa,53.99,12043886,
+Somalia,2015,Sub-Saharan Africa,55.92,13797204,386.437817
+Somalia,2020,Sub-Saharan Africa,57.697,15893219,444.7884307
+South Africa,2000,Sub-Saharan Africa,56.048,44967713,4930.025466
+South Africa,2005,Sub-Saharan Africa,53.447,47880595,5587.793352
+South Africa,2010,Sub-Saharan Africa,57.669,51216967,6084.967978
+South Africa,2015,Sub-Saharan Africa,62.649,55386369,6259.839681
+South Africa,2020,Sub-Saharan Africa,64.379,59308690,5659.206949
+South Sudan,2000,Sub-Saharan Africa,49.166,6199396,
+South Sudan,2005,Sub-Saharan Africa,51.686,7535931,
+South Sudan,2010,Sub-Saharan Africa,54.8,9508372,2352.416049
+South Sudan,2015,Sub-Saharan Africa,56.855,10715657,1119.651437
+South Sudan,2020,Sub-Saharan Africa,58.095,11193729,
+Spain,2000,Europe & Central Asia,78.96585366,40567864,23938.29675
+Spain,2005,Europe & Central Asia,80.17073171,43653155,26146.16441
+Spain,2010,Europe & Central Asia,81.62682927,46576897,25702.70416
+Spain,2015,Europe & Central Asia,82.83170732,46444832,25742.36883
+Spain,2020,Europe & Central Asia,82.33414634,47363419,24939.18726
+Sri Lanka,2000,South Asia,71.333,18777606,1923.413482
+Sri Lanka,2005,South Asia,74.695,19544988,2244.821288
+Sri Lanka,2010,South Asia,75.439,20261738,2950.390721
+Sri Lanka,2015,South Asia,76.316,20970000,3843.780672
+Sri Lanka,2020,South Asia,77.144,21919000,4052.746934
+St. Kitts and Nevis,2000,Latin America & Caribbean,,44083,15131.20099
+St. Kitts and Nevis,2005,Latin America & Caribbean,,46852,16652.5012
+St. Kitts and Nevis,2010,Latin America & Caribbean,,49011,16718.10128
+St. Kitts and Nevis,2015,Latin America & Caribbean,,51204,18028.97343
+St. Kitts and Nevis,2020,Latin America & Caribbean,,53192,18294.41845
+St. Lucia,2000,Latin America & Caribbean,73.319,156737,9326.871309
+St. Lucia,2005,Latin America & Caribbean,74.122,163408,9664.937714
+St. Lucia,2010,Latin America & Caribbean,74.852,174092,10151.04649
+St. Lucia,2015,Latin America & Caribbean,75.596,179131,10093.61802
+St. Lucia,2020,Latin America & Caribbean,76.343,183629,8651.349333
+St. Martin (French part),2000,Latin America & Caribbean,76.87317073,28935,
+St. Martin (French part),2005,Latin America & Caribbean,77.67317073,34252,
+St. Martin (French part),2010,Latin America & Caribbean,78.52195122,37582,
+St. Martin (French part),2015,Latin America & Caribbean,79.32195122,35865,
+St. Martin (French part),2020,Latin America & Caribbean,80.12195122,38659,
+St. Vincent and the Grenadines,2000,Latin America & Caribbean,70.809,107787,4998.480835
+St. Vincent and the Grenadines,2005,Latin America & Caribbean,71.331,108617,6166.288935
+St. Vincent and the Grenadines,2010,Latin America & Caribbean,71.776,108260,6617.778211
+St. Vincent and the Grenadines,2015,Latin America & Caribbean,72.095,109135,6921.702479
+St. Vincent and the Grenadines,2020,Latin America & Caribbean,72.658,110947,6962.753668
+Sudan,2000,Sub-Saharan Africa,58.472,27275019,1123.552731
+Sudan,2005,Sub-Saharan Africa,60.525,30949514,1302.553063
+Sudan,2010,Sub-Saharan Africa,62.764,34545014,1344.171288
+Sudan,2015,Sub-Saharan Africa,64.429,38902948,1329.635962
+Sudan,2020,Sub-Saharan Africa,65.53,43849269,1127.724342
+Suriname,2000,Latin America & Caribbean,67.822,470944,6202.416258
+Suriname,2005,Latin America & Caribbean,68.877,499461,7550.378545
+Suriname,2010,Latin America & Caribbean,70.465,529126,8941.993263
+Suriname,2015,Latin America & Caribbean,71.249,559136,9168.237157
+Suriname,2020,Latin America & Caribbean,71.802,586634,7529.6141
+Sweden,2000,Europe & Central Asia,79.64390244,8872109,41117.15243
+Sweden,2005,Europe & Central Asia,80.54634146,9029572,45990.37433
+Sweden,2010,Europe & Central Asia,81.45121951,9378126,48369.91004
+Sweden,2015,Europe & Central Asia,82.20487805,9799186,51545.48361
+Sweden,2020,Europe & Central Asia,82.40731707,10353442,51539.56022
+Switzerland,2000,Europe & Central Asia,79.68048781,7184250,74013.05641
+Switzerland,2005,Europe & Central Asia,81.23658537,7437115,76784.63733
+Switzerland,2010,Europe & Central Asia,82.24634146,7824909,82026.72451
+Switzerland,2015,Europe & Central Asia,82.89756098,8282396,84776.14217
+Switzerland,2020,Europe & Central Asia,83.1,8636561,85685.29027
+Syrian Arab Republic,2000,Middle East & North Africa,73.11,16410847,1254.59845
+Syrian Arab Republic,2005,Middle East & North Africa,74.43,18361178,1433.815243
+Syrian Arab Republic,2010,Middle East & North Africa,72.108,21362541,1592.350737
+Syrian Arab Republic,2015,Middle East & North Africa,69.908,17997411,916.3580331
+Syrian Arab Republic,2020,Middle East & North Africa,73.651,17500657,
+Tajikistan,2000,Europe & Central Asia,61.974,6216329,434.3443177
+Tajikistan,2005,Europe & Central Asia,66.08,6789318,630.781964
+Tajikistan,2010,Europe & Central Asia,68.736,7527397,783.5193787
+Tajikistan,2015,Europe & Central Asia,70.137,8454019,978.4049812
+Tajikistan,2020,Europe & Central Asia,71.301,9537642,1199.059889
+Tanzania,2000,Sub-Saharan Africa,50.801,33499177,567.5401616
+Tanzania,2005,Sub-Saharan Africa,54.349,38450323,692.4770826
+Tanzania,2010,Sub-Saharan Africa,58.584,44346532,808.1404996
+Tanzania,2015,Sub-Saharan Africa,63.111,51482638,947.9333517
+Tanzania,2020,Sub-Saharan Africa,65.815,59734213,1061.170346
+Thailand,2000,East Asia & Pacific,70.623,62952639,3517.798914
+Thailand,2005,East Asia & Pacific,72.099,65416189,4412.444295
+Thailand,2010,East Asia & Pacific,74.184,67195032,5163.597664
+Thailand,2015,East Asia & Pacific,76.091,68714519,5840.053067
+Thailand,2020,East Asia & Pacific,77.344,69799978,6198.414269
+Timor-Leste,2000,East Asia & Pacific,59.002,884366,941.5899722
+Timor-Leste,2005,East Asia & Pacific,63.882,995130,918.7274453
+Timor-Leste,2010,East Asia & Pacific,67.186,1093517,1185.623103
+Timor-Leste,2015,East Asia & Pacific,68.459,1196294,1332.791856
+Timor-Leste,2020,East Asia & Pacific,69.712,1318442,1587.857159
+Togo,2000,Sub-Saharan Africa,53.491,4924406,505.5008892
+Togo,2005,Sub-Saharan Africa,54.602,5611643,467.8188481
+Togo,2010,Sub-Saharan Africa,57.468,6421674,483.2360995
+Togo,2015,Sub-Saharan Africa,59.927,7323162,570.9099672
+Togo,2020,Sub-Saharan Africa,61.34,8278737,626.6220554
+Tonga,2000,East Asia & Pacific,69.667,97962,3672.403764
+Tonga,2005,East Asia & Pacific,69.836,100908,3875.163686
+Tonga,2010,East Asia & Pacific,70.059,103981,3769.069514
+Tonga,2015,East Asia & Pacific,70.517,100780,4336.239603
+Tonga,2020,East Asia & Pacific,71.018,105697,4629.881391
+Trinidad and Tobago,2000,Latin America & Caribbean,69.413,1267159,10619.92786
+Trinidad and Tobago,2005,Latin America & Caribbean,70.691,1296497,15312.7211
+Trinidad and Tobago,2010,Latin America & Caribbean,71.946,1328144,18105.34475
+Trinidad and Tobago,2015,Latin America & Caribbean,72.941,1370332,18214.46062
+Trinidad and Tobago,2020,Latin America & Caribbean,73.628,1399491,14872.37711
+Tunisia,2000,Middle East & North Africa,73.172,9708347,2881.283835
+Tunisia,2005,Middle East & North Africa,74.217,10106778,3350.563726
+Tunisia,2010,Middle East & North Africa,75.041,10635245,3975.729073
+Tunisia,2015,Middle East & North Africa,75.922,11179951,4094.836287
+Tunisia,2020,Middle East & North Africa,76.891,11818618,3780.603112
+Turkey,2000,Europe & Central Asia,70.005,63240196,6543.731447
+Turkey,2005,Europe & Central Asia,72.424,67903461,7738.578215
+Turkey,2010,Europe & Central Asia,74.507,72326992,8491.588652
+Turkey,2015,Europe & Central Asia,76.532,78529413,11006.27952
+Turkey,2020,Europe & Central Asia,77.928,84339067,12038.62811
+Turkmenistan,2000,Europe & Central Asia,63.613,4516128,2288.244538
+Turkmenistan,2005,Europe & Central Asia,65.017,4754652,2786.773872
+Turkmenistan,2010,Europe & Central Asia,66.657,5087211,4265.948601
+Turkmenistan,2015,Europe & Central Asia,67.704,5565283,6432.685325
+Turkmenistan,2020,Europe & Central Asia,68.313,6031187,
+Turks and Caicos Islands,2000,Latin America & Caribbean,,20171,
+Turks and Caicos Islands,2005,Latin America & Caribbean,,28181,
+Turks and Caicos Islands,2010,Latin America & Caribbean,,32658,
+Turks and Caicos Islands,2015,Latin America & Caribbean,,35979,26183.88504
+Turks and Caicos Islands,2020,Latin America & Caribbean,,38718,20723.91526
+Tuvalu,2000,East Asia & Pacific,,9392,2880.2338
+Tuvalu,2005,East Asia & Pacific,,9997,2722.395982
+Tuvalu,2010,East Asia & Pacific,,10521,2820.600923
+Tuvalu,2015,East Asia & Pacific,,11099,3197.772252
+Tuvalu,2020,East Asia & Pacific,,11792,3791.458542
+Uganda,2000,Sub-Saharan Africa,46.229,23650159,516.7330037
+Uganda,2005,Sub-Saharan Africa,51.676,27684590,610.4893199
+Uganda,2010,Sub-Saharan Africa,57.099,32428164,767.7385267
+Uganda,2015,Sub-Saharan Africa,61.373,38225447,847.2676289
+Uganda,2020,Sub-Saharan Africa,63.713,45741000,891.2959039
+Ukraine,2000,Europe & Central Asia,67.67560976,49176500,1420.116569
+Ukraine,2005,Europe & Central Asia,67.95682927,47105171,2144.247845
+Ukraine,2010,Europe & Central Asia,70.26536585,45870741,2315.099789
+Ukraine,2015,Europe & Central Asia,71.1895122,45154036,2124.662319
+Ukraine,2020,Europe & Central Asia,71.18512195,44134693,2344.363068
+United Arab Emirates,2000,Middle East & North Africa,74.327,3134067,60716.27309
+United Arab Emirates,2005,Middle East & North Africa,75.376,4588222,53844.72281
+United Arab Emirates,2010,Middle East & North Africa,76.332,8549998,32534.81755
+United Arab Emirates,2015,Middle East & North Africa,77.285,9262896,38663.4005
+United Arab Emirates,2020,Middle East & North Africa,78.12,9890400,37497.59259
+United Kingdom,2000,Europe & Central Asia,77.74146342,58892514,39229.26846
+United Kingdom,2005,Europe & Central Asia,79.04878049,60401206,43137.25515
+United Kingdom,2010,Europe & Central Asia,80.40243902,62766365,42487.92541
+United Kingdom,2015,Europe & Central Asia,80.95609756,65116219,45404.56777
+United Kingdom,2020,Europe & Central Asia,80.90243902,67215293,43020.20346
+United States,2000,North America,76.63658537,282162411,48689.03129
+United States,2005,North America,77.48780488,295516599,52796.08982
+United States,2010,North America,78.54146342,309327143,52759.99808
+United States,2015,North America,78.6902439,320738994,56863.3715
+United States,2020,North America,77.28048781,331501080,58203.37901
+Uruguay,2000,Latin America & Caribbean,74.731,3319734,10083.464
+Uruguay,2005,Latin America & Caribbean,75.826,3321799,10169.59687
+Uruguay,2010,Latin America & Caribbean,76.75,3359273,13433.06207
+Uruguay,2015,Latin America & Caribbean,77.369,3412013,15613.74597
+Uruguay,2020,Latin America & Caribbean,78.056,3473727,15044.64003
+Uzbekistan,2000,Europe & Central Asia,67.156,24650400,1276.760315
+Uzbekistan,2005,Europe & Central Asia,68.407,26167000,1560.292008
+Uzbekistan,2010,Europe & Central Asia,69.672,28562400,2131.357731
+Uzbekistan,2015,Europe & Central Asia,70.928,31298900,2753.971072
+Uzbekistan,2020,Europe & Central Asia,71.848,34232050,3154.408224
+Vanuatu,2000,East Asia & Pacific,67.363,184964,2836.561024
+Vanuatu,2005,East Asia & Pacific,68.35,209282,2621.912898
+Vanuatu,2010,East Asia & Pacific,69.123,236216,2855.868093
+Vanuatu,2015,East Asia & Pacific,69.869,271128,2695.666186
+Vanuatu,2020,East Asia & Pacific,70.623,307150,2638.892416
+"Venezuela, RB",2000,Latin America & Caribbean,72.112,24192449,
+"Venezuela, RB",2005,Latin America & Caribbean,72.852,26432445,
+"Venezuela, RB",2010,Latin America & Caribbean,73.134,28439942,
+"Venezuela, RB",2015,Latin America & Caribbean,72.584,30081827,
+"Venezuela, RB",2020,Latin America & Caribbean,72.066,28435943,
+Vietnam,2000,East Asia & Pacific,73.025,79910411,957.0037528
+Vietnam,2005,East Asia & Pacific,74.092,83832662,1273.345509
+Vietnam,2010,East Asia & Pacific,74.837,87967655,1648.2618
+Vietnam,2015,East Asia & Pacific,75.11,92677082,2085.101349
+Vietnam,2020,East Asia & Pacific,75.493,97338583,2655.767774
+Virgin Islands (U.S.),2000,Latin America & Caribbean,76.6195122,108642,
+Virgin Islands (U.S.),2005,Latin America & Caribbean,77.42195122,108453,46021.59057
+Virgin Islands (U.S.),2010,Latin America & Caribbean,77.86585366,108357,47162.73756
+Virgin Islands (U.S.),2015,Latin America & Caribbean,79.01707317,107712,34007.35294
+Virgin Islands (U.S.),2020,Latin America & Caribbean,79.8195122,106290,
+West Bank and Gaza,2000,Middle East & North Africa,71.022,2922153,2436.003015
+West Bank and Gaza,2005,Middle East & North Africa,72.028,3320396,2632.246274
+West Bank and Gaza,2010,Middle East & North Africa,72.788,3786161,2927.08102
+West Bank and Gaza,2015,Middle East & North Africa,73.442,4270092,3272.154324
+West Bank and Gaza,2020,Middle East & North Africa,74.213,4803269,2917.887797
+"Yemen, Rep.",2000,Middle East & North Africa,60.683,17409071,2383.748084
+"Yemen, Rep.",2005,Middle East & North Africa,63.481,20107416,2536.188835
+"Yemen, Rep.",2010,Middle East & North Africa,65.549,23154854,2722.521398
+"Yemen, Rep.",2015,Middle East & North Africa,66.085,26497881,1601.830063
+"Yemen, Rep.",2020,Middle East & North Africa,66.181,29825968,
+Zambia,2000,Sub-Saharan Africa,44,10415942,773.7207264
+Zambia,2005,Sub-Saharan Africa,48.496,11856244,918.310355
+Zambia,2010,Sub-Saharan Africa,55.655,13605986,1214.694994
+Zambia,2015,Sub-Saharan Africa,61.737,15879370,1338.290927
+Zambia,2020,Sub-Saharan Africa,64.194,18383956,1273.879558
+Zimbabwe,2000,Sub-Saharan Africa,44.649,11881482,1696.753262
+Zimbabwe,2005,Sub-Saharan Africa,43.241,12076697,1137.30318
+Zimbabwe,2010,Sub-Saharan Africa,50.64,12697728,1110.447012
+Zimbabwe,2015,Sub-Saharan Africa,59.534,13814642,1445.069702
+Zimbabwe,2020,Sub-Saharan Africa,61.738,14862927,1307.01363
